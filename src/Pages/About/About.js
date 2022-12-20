@@ -2,13 +2,13 @@ import React from 'react'
 import { Container, Row } from 'react-bootstrap';
 import styles from './about.module.scss'
 
-const About = () => {
-    return (
-        <div>
-            <Container className={styles.Container}>
-                <Row>
-                    <h1 className="py-3 text-center">About Us</h1>
-                    <p>
+ const About = () => {
+  return (
+    <div>
+      <Container className={styles.Container}>
+        <Row>
+          <h1 className="py-3 text center">About Us</h1>
+          <p>
                         Coder Commerce Limited is a leading Ecommerce company established in
                         June 2022. Main focus of this company is to develop product as a
                         Product, by maintaining the security and global standard of
@@ -27,10 +27,11 @@ const About = () => {
                         this company are the ICT Industry leaders having more than 25 years
                         experience in ICT arena.
                     </p>
-                </Row>
-            </Container>
-        </div>
-    );
-}
 
+        </Row>
+
+      </Container>
+    </div>
+  );
+}
 export default About;

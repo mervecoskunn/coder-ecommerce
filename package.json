@@ -1,5 +1,5 @@
 {
-  "name": "coder-ecommerce",
+  "name": "ecommers",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,10 +9,12 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
     "react-dom": "^18.2.0",
+    "react-elastic-carousel": "^0.11.5",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.4.5",
     "react-scripts": "5.0.1",
-    "sass": "^1.56.1",
+    "react-toastify": "^9.1.1",
+    "sass": "^1.56.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
