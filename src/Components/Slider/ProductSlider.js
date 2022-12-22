@@ -62,3 +62,13 @@ const products =[ {
 //Todo Memo
 
 export default React.memo(ProductSlider);
+// function useLayoutEffect(runnerFunction)
+// {
+//     var cleanupFunction=runnerFunction();
+
+
+//     //do something
+
+//     cleanupFunction();
+
+// }
